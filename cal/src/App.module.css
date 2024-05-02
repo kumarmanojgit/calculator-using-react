@@ -2,19 +2,9 @@
   border: 1px solid rgb(88, 86, 86);
   width: 200px;
   border-radius: 5px;
+  margin-top: 60px;
 }
-.display{
-  margin: 10px;
-  width: 175px;
-  font-size: 25px;
-}
-.buttonsContainer{
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-}
-.button{
-width: 45px;
-height: 45px;
-margin: 3px;
+
+.mk{
+  margin: 40px;
 }
